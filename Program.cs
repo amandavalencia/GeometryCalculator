@@ -1,4 +1,4 @@
-﻿namespace CircleCalculator
+﻿namespace GeometryCalculator
 {
     internal class Program
     {
